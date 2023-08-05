@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dushant</h1>
 <h3 align="center">i m software developer (Learner)</h3>
-
+<img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fdribbble-ui--311381761734186207%2F&psig=AOvVaw1iioqetGMkgPbLV-p8Xfqj&ust=1691328671953000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDjr7fQxYADFQAAAAAdAAAAABAJ" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan018&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhan018" alt="lakhan018" /></a> </p>
