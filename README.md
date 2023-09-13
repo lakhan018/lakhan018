@@ -1,7 +1,7 @@
 ![logo](https://github.com/lakhan018/lakhan018/blob/main/download.jfif)
 <h1 align="center">Hi 👋, I'm Dushant</h1>
-<h3 align="center">i m software developer (Learner)</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif&tbnid=QCZULViz1nWbzM&vet=1&imgrefurl=https://in.pinterest.com/pin/dribbble-ui--311381761734186207/&docid=nHTiJjr2MM91aM&w=800&h=600&source=sh/x/im/2" >
+<h3 align="center">I m Software Developer Beginner ;) </h3>
+<img align="right" alt="coding" width="400" src="[https://www.google.com/imgres?imgurl=https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif&tbnid=QCZULViz1nWbzM&vet=1&imgrefurl=https://in.pinterest.com/pin/dribbble-ui--311381761734186207/&docid=nHTiJjr2MM91aM&w=800&h=600&source=sh/x/im/2](https://in.pinterest.com/dpariskar/diwali-celebration/)" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan018&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhan018" alt="lakhan018" /></a> </p>
