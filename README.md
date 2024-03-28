@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **java,machine learning**
 
-- 💬 Ask me about **python,mysql**
+- 💬 Ask me about **python,MySQL**
 
 - 📫 How to reach me **dushantpariskar@gmail.com**
 
