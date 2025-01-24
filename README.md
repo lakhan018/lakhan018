@@ -1,6 +1,6 @@
 ![logo](https://github.com/lakhan018/lakhan018/blob/main/download.jfif)
 <h1 align="center">Hi 👋, I'm Dushant</h1>
-<h3 align="center">I m Software Developer Beginner ;) </h3>
+<h3 align="center">I am Aspring Developer) </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/ad/05/1a/ad051af1f930c30360062b45e5a1823f.jpg" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan018&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan018" /> </p>
 
